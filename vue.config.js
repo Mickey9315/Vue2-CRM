@@ -1,4 +1,5 @@
 /* eslint-disable */
+
 const { VuetifyProgressiveModule } = require("vuetify-loader");
 
 module.exports = {
