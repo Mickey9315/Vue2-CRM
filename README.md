@@ -19,7 +19,7 @@ The goal of this project is to create a reusable starter project for real-world 
 
 ### Live Demo
 
-[Demo App](https://vue-app-demo.harryho.org):  The demo is just a proof of concept. It doesn't have back-end API and all features of master branch.
+[Demo App]():  The demo is just a proof of concept. It doesn't have back-end API and all features of master branch.
 
 #### Screenshots ( The actual UI will be slightly different because I am lazy to keep up to date :p )
 
@@ -42,11 +42,11 @@ The goal of this project is to create a reusable starter project for real-world 
 ``` bash
 
 # Clone project
-git clone https://github.com/harryho/vue2crm.git
+git clone https://github.com/NFTknight/Vue2-CRM.git
 
 
 # install dependences for Vue 2 CRM
-cd vue2crm
+cd Vue2-CRM
 npm install --from-lock-file
 
 # or use yarn
@@ -109,15 +109,13 @@ For detailed explanation on how things work, checkout following links
 
 #### Archived
 
-The master branch has been rewriten with TypeScript.The old version built on ES6 has been moved the branch [vuetify-es6](https://github.com/harryho/vue-crm/tree/vuetify-es6). Anyone needs the ES6 version please check it out.
+The master branch has been rewriten with TypeScript.The old version built on ES6 has been moved the branch [vuetify-es6](https://github.com/NFTknight/Vue2-CRM/tree/vuetify-es6). Anyone needs the ES6 version please check it out.
 
 #### Alternatives
 
 There are two similar projects respectively built on the Angular and React. If you have interests in those technical stacks. You can find and clone those repositories below.
 
-* [Ng-MD-App](https://github.com/harryho/ng-md-app.git).
-* [React-Crm](https://github.com/harryho/react-crm.git).
-* [Ng4Crm](https://github.com/harryho/ng4crm.git). (This is no longer maintained with latest Angular)
+* [React-CRM](https://github.com/NFTknight/React-CRM.git).
 
 
 #### Change log

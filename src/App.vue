@@ -66,7 +66,7 @@
           </v-badge>
         </div>
 
-        <v-btn light text href="https://github.com/harryho/vue2crm" target="_blank">
+        <v-btn light text href="https://github.com/NFTknight/Vue2-CRM" target="_blank">
           <svg height="30" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true">
             <path
               fill-rule="evenodd"
