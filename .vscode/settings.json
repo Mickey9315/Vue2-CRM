@@ -1,6 +1,6 @@
 {
-    "editor.formatOnSave": false,
-    "prettier.eslintIntegration": false,
+    "editor.formatOnSave": true,
+    "prettier.eslintIntegration": true,
     "prettier.printWidth": 100,
     "prettier.trailingComma": "es5",
     "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
